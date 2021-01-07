@@ -6,7 +6,7 @@
 ## My name is Duc
 And here is something about me:
 - 🔭 I’m currently working on JavaScript, Java
-- 🌱 I’m currently learning ReactJS, Spring, NodeJS
+- 🌱 I’m currently learning ReactJS, Spring, NodeJS, Docker
 - 👯 I’m looking to collaborate on ReactJS or Spring projects
 - 🤔 I’m looking for help with Spring
 - 📫 How to reach me: tranvan.duc.012@gmail.com
