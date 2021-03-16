@@ -5,10 +5,10 @@
 -->
 ## My name is Duc
 And here is something about me:
-- 🔭 I’m currently working on JavaScript, Java
-- 🌱 I’m currently learning ReactJS, Spring, NodeJS, Docker
-- 👯 I’m looking to collaborate on ReactJS or Spring projects
-- 🤔 I’m looking for help with Spring
+- 🔭 I’m currently working on ReactJS, NodeJS in my main project: [Atticus Literature](https://github.com/AtticusFinchIPH/atticus-literature)
+- 🌱 I’m currently learning Docker, GraphQL
+- 👯 I’m looking to collaborate on JS, ReactJS, Java projects
+- 🤔 I’m looking for help with Spring, GrapheQL. I'd wlso like to know more about CI/CD.
 - 📫 How to reach me: tranvan.duc.012@gmail.com
 <!--
 - 💬 Ask me about
